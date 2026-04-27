@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my projects, skills, and experience in data analytics, machine learning, and software development.
 
 ## Live Website
-[View Portfolio](https://YOUR-USERNAME.github.io/portfolio/)
+[View Portfolio](https://manjumaney.github.io/portfolio/)
 
 ## Features
 - Clean, minimal UI
